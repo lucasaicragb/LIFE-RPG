@@ -71,7 +71,7 @@ Built as a solo project to solve a real personal challenge: staying consistent w
 
 ## 🚀 Live Demo
 
-**[lucasaicragb.github.io/LIFE-RPG](https://lucasaicragb.github.io/LIFE-RPG)**
+**[https://lucasaicragb.github.io/LIFE-RPG](https://lucasaicragb.github.io/LIFE-RPG/)**
 
 > Open in Safari on iOS → Share → Add to Home Screen to install as a native-like app.
 
